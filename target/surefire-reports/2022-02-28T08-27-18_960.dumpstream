@@ -1,0 +1,4 @@
+# Created at 2022-02-28T08:27:20.176
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Batch258\org.mb.gmail2\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
